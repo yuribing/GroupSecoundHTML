@@ -88,7 +88,7 @@ nav a:hover{
     padding: 1rem;
 }
 .teal-link{
-    background-color:darkgoldenrod;
+    background-color:#b80b83;
     color:#054605;
     padding: 1rem;
     margin-top: 2rem;
@@ -96,11 +96,8 @@ nav a:hover{
 @media screen and (max-width:768px) {
     .pre-nav{
         font-size: 0.5rem;
-        /* display: flex; */
-        /* justify-content: space-between; */
         align-items: center;
         flex-direction: column;
-        /* justify-content: center; */
     }
     nav{
         flex-direction: column;
